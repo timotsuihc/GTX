@@ -1,0 +1,12 @@
+[Executed at: Wed Mar 16 22:44:21 PDT 2022]
+
+============================================================
+ExternalChainingHashMap.java successfully compiled.
+============================================================
+Tests Passed: 24 / 25
+
+[Test Failure: validData] [-0.4] : Returned data was different from the data in the HashMap when testing the following method(s): remove.  
+
+
+Score: 9.6 / 10.0
+============================================================

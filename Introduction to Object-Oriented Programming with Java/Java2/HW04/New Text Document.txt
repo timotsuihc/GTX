@@ -1,0 +1,14 @@
+    Running: test_grow_1_param_edge_cases                       
+        Failed: Frog had initial age 25 and initial tongue      
+ed 30. It was grown by 10 months and did not have proper fi     
+ tongue speed.                                                  
+     expected:<25> but was:<24> 
+
+------   
+
+                 
+    Running: test_grow_1_param_edge_cases                               
+        Failed: Frog had initial age 5 and initial tongue speed 5.      
+ was grown by 8 months and did not have proper final tongue speed.      
+     expected:<12> but was:<13>          
+ 

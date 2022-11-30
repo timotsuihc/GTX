@@ -1,0 +1,39 @@
+            Finished: test_sabotage_big                           
+    Running: test_Equals_equals_implementation                
+        Failed: Could not find declared method: equals([class 
+java.lang.Object])                                            
+        Finished: test_Equals_equals_implementation           
+    Running: test_toString_method_output_frozen_all_caps   
+
+
+ Running: testBlueConstructor                              
+        Finished: testBlueConstructor                         
+    Running: test_emergencyMeeting_when_frozen                
+        Failed: Incorrect emergencyMeeting behavior when calle
+d on a frozen player                                          
+        Finished: test_emergencyMeeting_when_frozen           
+    Running: completeTask_test_small                          
+        Finished: completeTask_test_small                     
+    Running: test_toString_method_signature           
+
+
+
+       Finished: test_emergencyMeeting_1_highest_susLevel    
+    Running: completeTask_test_zero                           
+        Failed: We expected: I have completed all my tasks    
+    Your output:                                              
+        Finished: completeTask_test_zero                      
+    Running: test_blueastronaut_superclass     
+
+
+Running: test_toString_method_return_type                 
+        Finished: test_toString_method_return_type            
+    Running: testBlueConstructor3Param                        
+        Finished: testBlueConstructor3Param                   
+    Running: test_Equals_equals_implementation                
+        Failed: Could not find declared method: equals([class 
+java.lang.Object])                                            
+        Finished: test_Equals_equals_implementation           
+    Running: test_toString_method_output_frozen_all_caps      
+        Finished: test_toString_method_output_frozen_all_caps 
+    Running: test_class_header_implements_crewmate     

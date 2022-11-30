@@ -1,0 +1,84 @@
+[Executed at: Sat Jan 1 19:58:39 PST 2022]
+
+Error: All homework did not pass
+Running: removeAtIndex_test_correct_variables
+Failed: Tail should not be null removing index 0 in list of size 174
+
+Finished: removeAtIndex_test_correct_variables
+Running: get_test_return_correct
+Finished: get_test_return_correct
+Running: private_helpers_test
+Finished: private_helpers_test
+Running: testClear
+Finished: testClear
+Running: testSize
+Finished: testSize
+Running: removeAtIndex_test_invalid_index
+Finished: removeAtIndex_test_invalid_index
+Running: removeAtIndex_test_on_empty
+Finished: removeAtIndex_test_on_empty
+Running: get_test_invalid_index
+Finished: get_test_invalid_index
+Running: removeAtIndex_test_correct_index
+Finished: removeAtIndex_test_correct_index
+Running: constructor_test
+Finished: constructor_test
+Running: get_test_on_empty
+Finished: get_test_on_empty
+Running: addAtIndex_test_invalid_index
+Finished: addAtIndex_test_invalid_index
+Running: addAtIndex_test_fields
+Finished: addAtIndex_test_fields
+Running: remove_test_on_empty
+Finished: remove_test_on_empty
+Running: addAtIndex_test_correct_index
+Finished: addAtIndex_test_correct_index
+Running: remove_test_return
+Finished: remove_test_return
+Running: testIsEmpty
+Finished: testIsEmpty
+
+Running: remove_test_correct_variables
+Failed: Tail should be null removing element at index 0 in list of size 1
+Finished: remove_test_correct_variables
+
+Running: testRemove
+Finished: testRemove
+Running: removeAtIndex_test_return
+Finished: removeAtIndex_test_return
+Running: remove_test_correct_index
+Finished: remove_test_correct_index
+Running: test_data_private
+Visibility of instance field data is correct
+Finished: test_data_private
+Running: test_setData_exists
+Finished: test_setData_exists
+Running: test_getNext_exists
+Finished: test_getNext_exists
+Running: test_node_next_getter
+Node class getter for next is correct.
+Finished: test_node_next_getter
+Running: test_node_next_setter
+Node class setter for next is correct.
+Finished: test_node_next_setter
+Running: test_next_private
+Visibility of instance field next is correct
+Finished: test_next_private
+Running: test_getData_exists
+Finished: test_getData_exists
+Running: oneArgConstructor
+One-arg constructor declared correctly
+Finished: oneArgConstructor
+Running: twoArgConstructor
+Two-arg constructor declared correctly
+Finished: twoArgConstructor
+Running: test_node_data_getter
+Node class getter for data is correct.
+Finished: test_node_data_getter
+Running: test_setNext_exists
+Finished: test_setNext_exists
+Running: test_node_data_setter
+Node class setter for data is correct.
+Finished: test_node_data_setter
+Test run: 33, Passed: 31, Failed: 2
+Score: 93/100

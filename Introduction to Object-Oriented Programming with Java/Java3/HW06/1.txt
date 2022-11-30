@@ -1,0 +1,214 @@
+
+[Executed at: Mon Dec 27 23:04:42 PST 2021]
+
+Error: All homework did not pass
+Note: /mnt/ro/data2/students/sub1/ccc_v1_c_48ao_206651/asn281738_8/asn281739_1/asnlib.0/PetTest.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: /mnt/ro/data2/students/sub1/ccc_v1_c_48ao_206651/asn281738_8/asn281739_1/asnlib.0/CatTest.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+Running: test_clinic_addToFile_empty
+Failed: No line found
+
+Finished: test_clinic_addToFile_empty
+Running: test_clinic_addToFile_duplicates
+Finished: test_clinic_addToFile_duplicates
+Running: test_clinic_file_exists
+Finished: test_clinic_file_exists
+Running: test_clinic_addToFile_no_duplicates
+Finished: test_clinic_addToFile_no_duplicates
+Running: test_clinic_missing_file
+Finished: test_clinic_missing_file
+Running: test_clinic_addTime_functionality
+Finished: test_clinic_addTime_functionality
+Running: testFileConstructorClinic
+Finished: testFileConstructorClinic
+Running: testClinicAddTime
+Your nextDay method calls the addTime method.
+Finished: testClinicAddTime
+Running: test_clinic_variables
+You correctly declared the patientFile variable
+You correctly declared the day variable
+Finished: test_clinic_variables
+Running: test_clinic_addToFile
+You correctly declared your addToFile method
+Finished: test_clinic_addToFile
+Running: test_clinic_nextDay
+You correctly overloaded your nextDay method
+Finished: test_clinic_nextDay
+Running: test_clinic_constructor
+You correctly declared the constuctors in pet.
+Finished: test_clinic_constructor
+Running: testClinicSpeak
+Your nextDay method calls the speak method.
+Finished: testClinicSpeak
+Running: testClinicTreat
+Your nextDay method calls the treat method.
+Finished: testClinicTreat
+Running: test_clinic_addTime
+You correctly declared your addTime method
+Finished: test_clinic_addTime
+Running: test_pet_speak
+You correctly declared your speak method
+Finished: test_pet_speak
+Running: test_pet_treat
+You correctly declared your treat method
+Finished: test_pet_treat
+Running: test_pet_heal_implementation
+Pet's heal method is correct.
+Finished: test_pet_heal_implementation
+Running: test_pet_heal
+You correctly declared your heal method
+Finished: test_pet_heal
+Running: testPetIsAbstract
+Pet class is abstract!
+Finished: testPetIsAbstract
+Running: testPetConstructor
+You correctly declared the constuctor in pet.
+Finished: testPetConstructor
+Running: test_pet_variables
+You correctly declared the name variable
+You correctly declared the health variable
+You correctly declared the painLevel variable
+Finished: test_pet_variables
+Running: test_pet_speak_implementation_1
+Finished: test_pet_speak_implementation_1
+Running: test_pet_speak_implementation_2
+Finished: test_pet_speak_implementation_2
+Running: test_pet_equals
+You correctly declared your equals method
+Finished: test_pet_equals
+Running: test_invalid_except_parent
+Finished: test_invalid_except_parent
+Running: testExceptionConstructorNoArg
+Finished: testExceptionConstructorNoArg
+Running: testExceptionConstructorOneArg
+Finished: testExceptionConstructorOneArg
+Running: testDogConstructor3Param
+Finished: testDogConstructor3Param
+Running: testDogTreatHeal
+Your treat method in Dog calls the heal method.
+Finished: testDogTreatHeal
+Running: test_dog_equals
+You correctly declared your equals method
+Finished: test_dog_equals
+Running: test_dog_speak_implementation_1
+Finished: test_dog_speak_implementation_1
+Running: test_dog_speak_implementation_2
+Finished: test_dog_speak_implementation_2
+
+Running: testDogTreatTime1
+Failed: Treat time is incorrect for dog with 0.400000 health, 3 painLevel, 2.000000 droolRate. expected:<15> but was:<6>
+Finished: testDogTreatTime1
+Running: testDogTreatTime2
+Failed: Treat time is incorrect for dog with 0.500000 health, 7 painLevel, 5.500000 droolRate. expected:<14> but was:<7>
+Finished: testDogTreatTime2
+Running: testDogTreatTime3
+Failed: Treat time is incorrect for dog with 0.800000 health, 8 painLevel, 8.500000 droolRate. expected:<5> but was:<4>
+Finished: testDogTreatTime3
+Running: testDogTreatTime4
+Failed: Treat time is incorrect for dog with 0.500000 health, 7 painLevel, 3.500000 droolRate. expected:<14> but was:<7>
+
+
+Finished: testDogTreatTime4
+Running: testDogExtendsPet
+Finished: testDogExtendsPet
+Running: test_dog_equals_implementation
+You correctly implemented your equals method
+Finished: test_dog_equals_implementation
+Running: test_Dog_variables
+You correctly declared the droolRate variable.
+Finished: test_Dog_variables
+
+Running: testGetMiceCaughtExists
+Failed: Cannot find method getDroolRate() with no parameters. Does it exist? Is it spelled correctly?
+
+Finished: testGetMiceCaughtExists
+Running: test4ParamConstructorCatAP
+Finished: test4ParamConstructorCatAP
+Running: test_dog_equals_parent
+Dog equals method correctly calls Pet's equals method.
+Finished: test_dog_equals_parent
+Running: testDogSpeak
+Finished: testDogSpeak
+Running: testDogTreat
+Finished: testDogTreat
+Running: testDogConstructor
+Finished: testDogConstructor
+Running: test3ParamConstructorCatAP
+Finished: test3ParamConstructorCatAP
+Running: test_cat_equals
+You correctly declared your equals method
+Finished: test_cat_equals
+Running: testCatTreatHeal
+Your treat method in Cat calls the heal method.
+Finished: testCatTreatHeal
+Running: test_Cat_equals_implementation
+You correctly implemented your equals method
+Finished: test_Cat_equals_implementation
+Running: testCatConstructor
+Finished: testCatConstructor
+
+Running: testGetMiceCaughtExists
+Failed: Cannot find method getMiceCaught() with no parameters. Does it exist? Is it spelled correctly?
+
+Finished: testGetMiceCaughtExists
+Running: test4ParamConstructorCatAP
+Finished: test4ParamConstructorCatAP
+Running: test_cat_variables
+You correctly declared the miceCaught variable.
+Finished: test_cat_variables
+Running: test_cat_equals_parent
+Cat equals method correctly calls Pet's equals method.
+Finished: test_cat_equals_parent
+
+Running: testCatTreatTime1
+Failed: Treat time is incorrect for cat with 0.400000 health, 3 painLevel, 2 miceCaught. expected:<15> but was:<6>
+Finished: testCatTreatTime1
+Running: testCatTreatTime2
+Failed: Treat time is incorrect for cat with 0.500000 health, 7 painLevel, 5 miceCaught. expected:<14> but was:<7>
+Finished: testCatTreatTime2
+Running: testCatTreatTime3
+Failed: Treat time is incorrect for cat with 0.800000 health, 8 painLevel, 8 miceCaught. expected:<5> but was:<4>
+Finished: testCatTreatTime3
+Running: testCatTreatTime4
+Failed: Treat time is incorrect for cat with 0.500000 health, 7 painLevel, 4 miceCaught. expected:<14> but was:<7>
+
+Finished: testCatTreatTime4
+Running: testCatExtendsPet
+Finished: testCatExtendsPet
+Running: testCatSpeak
+Finished: testCatSpeak
+Running: testCatTreat
+Finished: testCatTreat
+
+Running: test_cat_speak_implementation_1
+Failed: Your program output:
+Hello! My name is speakTestingCat
+MEOW MEOW MEOW MEOW MEOW
+
+Which did not match the correct regular expression:
+Hello! My name is speakTestingCat meow meow meow meow
+
+Finished: test_cat_speak_implementation_1
+Running: test_cat_speak_implementation_2
+Finished: test_cat_speak_implementation_2
+Running: testCatConstructor3Param
+Finished: testCatConstructor3Param
+Running: test3ParamConstructorCatAP
+Finished: test3ParamConstructorCatAP
+Running: clinicNextDayIncrementsDay
+Finished: clinicNextDayIncrementsDay
+Running: clinicNextDayThrowsOnInvalidPet
+Finished: clinicNextDayThrowsOnInvalidPet
+Running: clinicNextDayRepromptsOnInvalidInput
+Finished: clinicNextDayRepromptsOnInvalidInput
+Running: clinicNextDayReturnValue
+Finished: clinicNextDayReturnValue
+Running: clinicOutput
+Your nextDay method correctly prints out the desired statements.
+Finished: clinicOutput
+Running: clinicNextDayThrowsOnWrongCasePet
+Finished: clinicNextDayThrowsOnWrongCasePet
+Test run: 72, Passed: 60, Failed: 12
+Score: 83/100

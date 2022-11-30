@@ -1,0 +1,15 @@
+
+[Executed at: Mon Feb 28 22:29:24 PST 2022]
+
+============================================================
+BST.java successfully compiled.
+============================================================
+Tests Passed: 31 / 32
+
+[Test Failure: dataHandling] [-0.31] : If you are failing this test case, that means either:
+	1) You are using == instead of compareTo() or equals() to compare Objects in remove().
+	2) You are returning the passed in data (or some other incorrect data) in remove(). 
+
+
+Score: 9.69 / 10.0
+============================================================
